@@ -1,9 +1,0 @@
-{
-	"scripts": {
-    "phpcs": "phpcs --standard=PSR2"
-	},
-
-	"require":{
-		"squizlabs/php_codesnifer": "*"
-	}
-}
